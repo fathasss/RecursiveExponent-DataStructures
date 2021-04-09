@@ -1,2 +1,4 @@
-# veriyapilari-recursive-exponent
-Özyineli üs alma fonksiyonu
+# RecursiveExponent DataStructures
+Özyineli üs alma fonksiyonu.
+
+Download and run ide.
